@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Life Bug Journal]]></title>
   <link href="http://kelabang.github.io/atom.xml" rel="self"/>
   <link href="http://kelabang.github.io/"/>
-  <updated>2016-06-12T18:03:04+07:00</updated>
+  <updated>2016-06-12T18:09:46+07:00</updated>
   <id>http://kelabang.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[imam t]]></name>
+    <email><![CDATA[imam.tauhid.dar@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
